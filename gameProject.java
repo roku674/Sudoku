@@ -1,4 +1,4 @@
-package game;
+package game.Sudoku;
 
 import java.awt.Component;
 import javax.swing.JOptionPane;
